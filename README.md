@@ -1,4 +1,4 @@
 # Grup-2
-Birsen
-Islam
-Nazif
+Birsen Resim Yukledi
+Islam Komut Girdi
+Nazif Adini Koydu
